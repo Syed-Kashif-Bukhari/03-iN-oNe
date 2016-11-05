@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    
+    background-image: url("images3.jpg");
+    background-repeat: no-repeat;
+      background-size: cover;
+}
+.demo {
+   // background-color: burlywood;//
+   
+    text-align: left;
+    margin-right: 700px;
+   }

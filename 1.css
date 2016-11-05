@@ -1,0 +1,12 @@
+body {
+   // background-color: saddlebrown;//
+    text-align: start;
+   background-image: url("images2.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#c {
+    margin-top: 100px;
+     margin-left: 150px;
+    margin-right: 300px;
+}
